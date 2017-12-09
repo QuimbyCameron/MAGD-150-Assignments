@@ -1,3 +1,10 @@
+This was the very first code I had to write for this class. I adhered to the theme Space and instantly thought of planets. I was
+struggling with figuring out the placements for ellipses so I tried a new sketch that contained an astronaut placing a flag on the 
+moon. I think, especially for my first code that displays an image, it went very well.
+Below is the code.
+
+
+
 void setup(){
   size(400, 400);
 }
