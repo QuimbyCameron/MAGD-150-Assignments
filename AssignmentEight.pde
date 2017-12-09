@@ -1,3 +1,11 @@
+**I couldn't figure out how to incorporate the data in some of the files so if you're missing any information, click on the master URL. 
+In this assignment we were supposed to create or load an image in the code. The theme given was motivational posters and when I think 
+about motivation I think of working out. So I gathered up a .png image from Google that contains a weight and I used the text:
+"Want to get in shape?" "Buy a gym membership!" 
+Below is the code.
+
+
+
 PFont Calibri;
 PFont Cambria;
 PImage img;
