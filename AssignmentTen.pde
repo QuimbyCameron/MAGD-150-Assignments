@@ -1,3 +1,9 @@
+This was the last assignment that was given. Unfortunately, I did not have a partner that responded in time to me so I did the entire 
+assignment by myself. I did not get to the textures in time because I started late but I still think this is my overall favorite code
+I've made. It turned out better than expected and I'm quite proud of it. 
+
+
+
 // I tried my best to make it look like a ball is rolling on an axis of some sort.
 // Also, my partner did not get back to me so I have no textures to use.
 // I apologize for any inconvenience and will talk to you in class about this. 
