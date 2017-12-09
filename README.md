@@ -1,5 +1,4 @@
 # MAGD-150-Assignments
-## Readme File
 
 
 ## Assignments 
